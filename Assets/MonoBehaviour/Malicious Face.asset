@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e07e7aa04a3dcfacc826789b2d1e8174, type: 3}
+  m_Name: Malicious Face
+  m_EditorClassIdentifier:
+  objectName: Malicious Face
+  gameObject: {fileID: 1310560291147594, guid: 147fdccbad3a7af4a951bd560d3877a4, type: 2}
+  preview: {fileID: 1091208615693694, guid: 63eb66ab9a3083b468d9556832a7e5fd, type: 2}
+  gridIcon: {fileID: 21300000, guid: 989f5555a0b000748aa28362ab743e05, type: 2}
+  backgroundColor: {r: 0.5176471, g: 0.90588236, b: 0.50980395, a: 1}

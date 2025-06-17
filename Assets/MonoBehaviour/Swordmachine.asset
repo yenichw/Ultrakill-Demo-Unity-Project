@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e07e7aa04a3dcfacc826789b2d1e8174, type: 3}
+  m_Name: Swordmachine
+  m_EditorClassIdentifier:
+  objectName: Swordmachine
+  gameObject: {fileID: 1966367541519272, guid: 4bc5b11cddc752a4f99e1ef6854bb001, type: 2}
+  preview: {fileID: 1855610788982319, guid: dca61d569cf66a343b8474b1f391306f, type: 2}
+  gridIcon: {fileID: 21300000, guid: 5ad36fde90e05d4418c0be3f5b7d03e2, type: 2}
+  backgroundColor: {r: 0.47843137, g: 0.61960787, b: 0.8509804, a: 1}
