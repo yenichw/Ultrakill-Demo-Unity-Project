@@ -8,7 +8,7 @@
 
 ## 🎯 Purpose
 
-This project is a reverse-engineering reconstruction of the Unity-based game **Ultakill Demo**, created with the following goals:
+This project is a reverse-engineering reconstruction of the Unity-based game **Ultrakill Demo**, created with the following goals:
 
 - ☕️ Understand Unity scene structure, object hierarchy, and scripting
 - 🧪 Analyze gameplay logic and internal mechanisms
